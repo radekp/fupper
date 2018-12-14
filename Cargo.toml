@@ -1,0 +1,6 @@
+[package]
+name = "fupper"
+version = "0.1.0"
+authors = ["Radek Polak <polak@odp.cz>"]
+
+[dependencies]
